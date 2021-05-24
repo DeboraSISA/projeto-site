@@ -12,14 +12,14 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(23, 7, 27, 0.575);
+    box-shadow: 3px 3px 5px rgba(100, 35, 67, 0.925);
 }
 img.lado{
     float: right;
 }
 h1 {
     font-size: 3em;
-    color: rgb(167, 67, 130);
+    color: rgb(219, 22, 147);
 }
 h2 {
     font-size: 1.5em;
